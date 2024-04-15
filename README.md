@@ -1,15 +1,14 @@
 ![MasterHead](https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif)
 <h1 align="center">Hi 👋, I'm Laetitia Steybe</h1> 
 <h3 align="center">A passionate I am a junior Web Developer, living in Zürich, Switzerland.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4614765c1e85f52edf5f2f563cba2e8bff2a4f1d27dbc26117261aa55dd56313/68747470733a2f2f632e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966">
+<br />
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="GIF" >
+
 
 - 🔭 I’m currently working on my **portfolio**
 - 🌱 I’m currently learning **Three.js and deepening my experience with JavaScript, Ruby, Ruby on Rails and CSS**
-- 📚 I'm reading the book: "Ruby on Rails Tutorial" by Michael Hartl.
-
-<h4 align="left"> 📧 steybe@protonmail.com 📧 </h4>
-<p align="left">
-</p>
+- 📚 I'm currently reading the book: "Ruby on Rails Tutorial" by Michael Hartl.
+- 📧 steybe@protonmail.com 
 
  <br />
 
