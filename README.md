@@ -1,16 +1,20 @@
-[![MasterHead](https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif)]
+![MasterHead](https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif)
 <h1 align="center">Hi 👋, I'm Laetitia Steybe</h1> 
-<h3 align="center">A passionate frontend developer from Switzerland</h3>
+<h3 align="center">A passionate I am a junior Web Developer, living in Zürich, Switzerland.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
+<iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw">via GIPHY</a></p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lae178456&label=Profile%20views&color=0e75b6&style=flat" alt="lae178456" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lae178456" alt="lae178456" /></a> </p>
 
-- 🔭 I’m currently working on **SncySparkel**
-
+- 🔭 I’m currently working on a event management tool **SncySparkel**
 - 🌱 I’m currently learning **Three.js and deepen my experience with JavaScript as well as Ruby on Rails**
+- 📚 I'm reading the book: "Ruby on Rails Tutorial" by Michael Hartl.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: steybe@protonmail.com</h3>
 <p align="left">
 </p>
 
