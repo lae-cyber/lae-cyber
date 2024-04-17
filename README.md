@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my **portfolio**
 - 🌱 I’m currently learning **Three.js and deepening my experience with JavaScript, Ruby, Ruby on Rails and CSS**
-- 📚 I'm currently reading the book: "Ruby on Rails Tutorial" by Michael Hartl.
+- 📚 I'm currently reading and studying the book: "CopTIA Security+" by ...
 - 📧 steybe@protonmail.com 
 
  <br />
