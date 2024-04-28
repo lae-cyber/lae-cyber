@@ -14,7 +14,7 @@
 
 **My bootcamp projects :**
 <ul>
-  <li><a href="https://github.com/JulesChevrant/OVNINB">Vinyl'nb</a> : an Airbnb clone for vinyl music lovers.</li>
+  <li><a href="https://github.com/lae178456/airbnb_vinyl">Vinyl'nb</a> : an Airbnb clone for vinyl music lovers.</li>
   <li><a href="https://github.com/lae178456/syncsparkle">SyncSparkle</a> : an Webpage to simplify the event promotion process by allowing publication across multiple event platforms via API.</li> 
 </ul>
 
