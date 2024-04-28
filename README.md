@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif)
-<h1 align="center">Hi 👋, I'm Laetitia Steybe</h1> 
+<h1 align="center">Hi 👋, I'm Laetitia</h1> 
 <h3 align="center">A Software Enthusiast, living in Zürich, Switzerland.</h3>
 <br />
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="GIF" >
