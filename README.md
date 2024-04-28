@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="GIF" >
 
 
-- 🔭 I’m currently working on my **per portfolio**
+- 🔭 I’m currently working on my **personal portfolio**
 - 🌱 I’m currently learning **Three.js and deepening my experience with JavaScript, HTML, Ruby, Ruby on Rails and CSS**
 - 📚 I'm currently reading and studying the book: "CopTIA Security+" by David Seidl
 - 📧 steybe@protonmail.com 
