@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my **portfolio**
 - 🌱 I’m currently learning **Three.js and deepening my experience with JavaScript, HTML, Ruby, Ruby on Rails and CSS**
-- 📚 I'm currently reading and studying the book: "CopTIA Security+" by David Seidl
+- 📚 I'm currently reading and studying the book: "CompTIA Security+" by David Seidl
 - 📧 steybe@protonmail.com 
 
  <br />
