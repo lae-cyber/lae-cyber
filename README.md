@@ -6,14 +6,14 @@
 <img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="GIF" >
 <br />
 
-- 🔭 I am currently contributing to the team project:<a href="https://github.com/Bouhmid-codes/Business-cards">Business Card Plattfrom</a>
+- 🔭 I am currently contributing to the team project: <a href="https://github.com/Bouhmid-codes/Business-cards">Business Card Plattfrom</a>
 - 🌱 I’m currently learning **Three.js and deepening my experience with JavaScript, HTML, Ruby, Ruby on Rails and CSS**
 - 📚 I'm currently studying the book: "CompTIA Security+" by David Seidl
 - 📧 steybe@protonmail.com 
 
  <br />
 
-**My bootcamp projects :**
+**My bootcamp projects:**
 <ul>
   <li><a href="https://github.com/lae178456/airbnb_vinyl">Vinyl'nb</a> : an Airbnb clone for vinyl music lovers.</li>
   <li><a href="https://github.com/lae178456/syncsparkle">SyncSparkle</a> : an Webpage to simplify the event promotion process by allowing publication across multiple event platforms via API.</li> 
