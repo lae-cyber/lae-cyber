@@ -4,8 +4,10 @@
 <h1 align="center">Hi 👋, I'm Laetitia </h1> 
 <h3 align="center">A Software Enthusiast, living in Zürich, Switzerland.</h3>
 <br />
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="GIF" >
+☆ ★ ✮ ★ ☆
 
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="GIF" >
+<br />
 
 - 🔭 I’m currently working on <a href="https://github.com/Bouhmid-codes/Business-cards">Business Card Plattfrom</a>
 - 🌱 I’m currently learning **Three.js and deepening my experience with JavaScript, HTML, Ruby, Ruby on Rails and CSS**
