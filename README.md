@@ -15,8 +15,8 @@
 
 **My bootcamp projects:**
 <ul>
-  <li><a href="https://github.com/lae178456/airbnb_vinyl">Vinyl'nb</a> : an Airbnb clone for vinyl music lovers.</li>
-  <li><a href="https://github.com/lae178456/syncsparkle">SyncSparkle</a> : an Webpage to simplify the event promotion process by allowing publication across multiple event platforms via API.</li> 
+  <li><a href="https://github.com/lae-cyber/airbnb_vinyl">Vinyl'nb</a> : an Airbnb clone for vinyl music lovers.</li>
+  <li><a href="https://github.com/lae-cyber/syncsparkle">SyncSparkle</a> : an Webpage to simplify the event promotion process by allowing publication across multiple event platforms via API.</li> 
 </ul>
 
 <br />
@@ -48,7 +48,7 @@ const julesChevrant = {
 <br />
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lae178456&icons=true&theme=dracula&locale=en&layout=compact" alt="lae178456" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lae178456&theme=dark" alt="lae178456" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lae-cyber&icons=true&theme=dracula&locale=en&layout=compact" alt="lae-cyber" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lae-cyber&theme=dark" alt="lae-cyber" />
 </p>
 
