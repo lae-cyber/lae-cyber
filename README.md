@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Laetitia </h1> 
 <h3 align="center">A Software Enthusiast, living in Zürich, Switzerland.</h3>
   
-<br>
+<br> 
 <img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" alt="GIF" >
 <br />
 
