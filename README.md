@@ -35,8 +35,6 @@ const julesChevrant = {
 
 <br />
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lae-cyber&icons=true&theme=dracula&locale=en&layout=compact" alt="lae-cyber" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lae-cyber&theme=dark" alt="lae-cyber" />
 </p>
 
